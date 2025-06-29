@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR-ID-HERE" width="200" height="200" style="border-radius: 50%" alt="rdme">
+  <img src="rdme.jpg" width="995" height="786" alt="Assem Profile Picture">
 </p>
+
 
 ---
 
@@ -48,6 +49,22 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" alt="funny game gif">
+</p>
+
+<p align="center">
+  <a href="https://snake-game.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Snake%20Game-Click%20Here-29a329?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
@@ -80,5 +97,3 @@
 ## How to reach me
 
 - Email: `assemsabryyy@gmail.com`
-
-
