@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR-ID-HERE" width="200" height="200" style="border-radius: 50%" alt="Assem Sabry Profile Pic">
+  <img src="https://avatars.githubusercontent.com/u/YOUR-ID-HERE" width="200" height="200" style="border-radius: 50%" alt="rdme">
 </p>
 
 ---
