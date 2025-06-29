@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="rdme.jpg" width="995" height="786" alt="Assem Profile Picture">
+  <img src="rdme.jpg" width="300" height="237" alt="Assem Profile Picture">
 </p>
 
 
