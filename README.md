@@ -15,7 +15,7 @@
 
 ## About Me
 
-- Working as an **AI Engineer** at *Reality AI*
+- Founder of an AI Startup **TokenAI**
 - Specializing in **Computer Vision**, **Natural Language Processing**, and **LLMs**
 - Constantly exploring and training deep learning models
 - Building smart assistants, vision systems, and AI-powered apps
