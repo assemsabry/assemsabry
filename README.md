@@ -1,102 +1,128 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E89ED&center=true&vCenter=true&width=600&lines=Assem+Sabry;&background=00000000" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="media/name.png" alt="Name">
+</div>
 
-<p align="center">
-  <img src="rdme.jpg" width="300" height="237" alt="Assem Profile Picture">
-</p>
+# AI Engineer & Researcher I Founder of [TokenAI](https://tokenai.cloud/)
 
+## Featured Projects
 
----
+<div align="center">
+  <img src="media/main.png" alt="Main Project">
+</div>
 
-<h3 align="center">AI Engineer | Neural Network Specialist | Machine Learning Enthusiast</h3>
+### Horus AI Models Family
 
----
+**Horus 1.0 4B**
+The First AI Models trained from scratch in Egypt. It is a text generation model built upon the Llama architecture. 
 
-## About Me
-
-- Founder of an AI Startup **TokenAI**
-- Specializing in **Computer Vision**, **Natural Language Processing**, and **LLMs**
-- Constantly exploring and training deep learning models
-- Building smart assistants, vision systems, and AI-powered apps
+Read all the details here: [Horus 1.0 4B Official Page](https://tokenai.cloud/models/horus-1-0-4b)
 
 ---
 
-## Skills
+### NeuralNode 
 
-### Languages & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+A complete framework for building AI Agents, available in Python.
 
----
+```bash
+pip install neuralnode
+```
 
-## GitHub Stats
+The NeuralNode framework is now available as a framework in Python.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=assemsabry&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assemsabry&layout=compact&theme=tokyonight" />
-</p>
+#### What is NeuralNode and what are its benefits?
 
----
+The NeuralNode framework is a complete and easy-to-use framework for building AI Agents in Python. If you work in Artificial Intelligence and want to build AI agents capable of executing complex tasks, NeuralNode is currently the most suitable solution for what you need.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+#### Why is NeuralNode better than other alternatives?
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" alt="funny game gif">
-</p>
+**1. Ease of Use:**
+- Simple and direct interface
+- You do not need deep AI experience to get started
+- Clean and organized code
 
-<p align="center">
-  <a href="https://snake-game.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Snake%20Game-Click%20Here-29a329?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+**2. Comprehensive LLM Support:**
+- OpenAI (GPT-3.5, GPT-4)
+- Anthropic (Claude)
+- Google Gemini
+- Ollama for local models
+- Hugging Face Transformers
 
----
+This means you can use external APIs from the most popular companies.
 
-## Badges
+**3. Advanced Features:**
+- RAG (Retrieval-Augmented Generation)
+- Vector Search
+- Automated web browser
+- Secure code execution
+- Email with OAuth2
+- Distributed computing with Ray
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-[![Python](https://img.shields.io/badge/Made%20with-Python-blue?style=flat&logo=python)](https://www.python.org/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Assem-blueviolet?style=flat-square)](https://your-portfolio-link.com)
+**4. High Security:**
+- Command whitelist system
+- Code execution in Docker
+- Protection against injections and attacks
 
----
+**Security Improvements:**
+- Email system using OAuth2 instead of passwords
+- True whitelist protection in system_control
+- Removal of all pass blocks that were causing issues
 
-## Connect with Me
-<p align="left">
-  <a href="https://assemsabry.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-<p align="left">
-  <a href="https://www.linkedin.com/in/assem7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/assemsabryy" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/assemsabryy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/assemsabryy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+**Docker Support:**
+- Code execution in secure Docker containers
+- Complete isolation from the main system
 
----
+**Automated Training:**
+- Train your Agent on specific tasks
+- Performance improvement based on results
+- Transfer Learning between tasks
 
-## How to reach me
+**Integrated RL System:**
+- Algorithms: PPO, DQN, A2C
+- Secure training environment
+- Customizable reward and penalty system
 
-- Email: `assemsabryyy@gmail.com`
+**Continuous Performance Improvement:**
+- Real-time monitoring
+- Behavior modification
+- Saving and restoring models
+
+**Learning from Interaction:**
+- Learning from the user
+- Improving responses
+- Adapting behavior to context
+
+This means you will build your Agent and over time it will autonomously learn your style and repetitive tasks.
+
+**Advanced Testing Environment:**
+- Simulating realistic scenarios
+- Stress testing
+- Measuring efficiency and accuracy
+
+#### How to start?
+
+Run the library installation command in Python, which is:
+```bash
+pip install neuralnode
+```
+
+Then read the Documentation, which contains more than 20 sections explaining everything related to the framework and how to work with it.
+
+The surprise is, after you build your AI Agent, you can simply connect it to Telegram and talk to your agent to follow up on your work while you are away from your device or outside the house.
+
+#### Why is it in demand in the market?
+
+Currently, one of the most important things in the tech world is building AI Agents to finish your work and tasks quickly and assist you in your job, and AI Agents builder frameworks are not many.
+
+The LangChain framework was the best for a long time despite its problems and complexity.
+
+Now, you can easily install NeuralNode in Python, start working, and build your smart AI Agent. It will have browser access, search and fetch results from reliable internet sources, control your device based on your requests, and you will have easy communication with your agent through Telegram.
+
+Here is the NeuralNode link on PyPI to read the Documentation properly:
+https://pypi.org/project/neuralnode
+
+#### Conclusion
+
+The NeuralNode framework is your first step in building your own AI Agent to facilitate your work and life.
+
+Run the `pip install neuralnode` command in Python and get started.
+If you face any problem, leave a comment or send me a DM.
