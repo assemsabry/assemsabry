@@ -38,6 +38,24 @@ I'm the creator of the **Horus models family** at TokenAI. The Horus family has 
 
 ---
 
+<h2 align="center">Replica Speech Models</h2>
+
+<div align="center">
+  <img src="media/replica.png" alt="Replica Speech Models">
+</div>
+
+**Replica Preview** is TokenAI's family of expressive speech generation models — built to bring natural voices and flexible generation into practical audio workflows, with options for different model sizes and language needs.
+
+- **Replica Preview 0.6B:** Expressive diffusion TTS with zero-shot voice cloning and controllable voice design.
+- **Replica Preview 0.5B:** Compact speech generation with expressive sampling control.
+- **Replica Preview 0.7B EN:** Fast English-only speech for natural, real-time delivery.
+
+**Explore more:**
+- [Explore More about Replica](https://replica.tokenai.llc)
+- [Replica Preview Models](https://tokenai.llc/projects/replica-preview)
+
+---
+
 <h2 align="center">Researches</h2>
 
 ### Stable Training with Adaptive Momentum STAM
