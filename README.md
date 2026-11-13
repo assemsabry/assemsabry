@@ -56,6 +56,21 @@ I'm the creator of the **Horus models family** at TokenAI. The Horus family has 
 
 ---
 
+<h2 align="center">Horus Cyber Nano</h2>
+
+<div align="center">
+  <img src="media/horus-cyber.png" alt="Horus Cyber Nano">
+</div>
+
+**Horus Cyber Nano** is a model family for authorized security analysis, secure coding, visual inspection, video understanding, and defensive technical workflows.
+
+- **Horus Cyber Nano 1.0:** A 16B parameters multimodal reasoning model for authorized security analysis, secure coding, visual inspection, video understanding, and defensive technical workflows.
+- **Horus Cyber Nano 1.2:** An improved 16B-parameter multimodal reasoning model focused on the same workflows — Coming Soon.
+
+[Explore Models](https://tokenai.llc/projects/horus-cyber-nano)
+
+---
+
 <h2 align="center">Researches</h2>
 
 ### Stable Training with Adaptive Momentum STAM
