@@ -14,13 +14,15 @@
 
 <h2 align="center">About Me</h2>
 
-My journey in Artificial Intelligence spans from foundational learning to pioneering research and professional enterprise solutions. I'm a researcher with **3 academic papers** and **4 research projects** in AI. Here is a brief timeline of my professional experience:
+My journey in AI spans from foundational learning to pioneering research and professional enterprise solutions — I'm a researcher with **3 academic papers** and **4 research projects** in AI.
 
-- **Learning Programming & Computer Vision (2021 - 2023):** Started my journey focusing on computer vision techniques and foundational coding skills.
-- **AI Engineering (2023 - Present):** Building and deploying intelligent systems, mastering machine learning algorithms, and advanced AI architectures.
-- **Freelancing (2024 - Present):** Providing professional AI and software development services to clients worldwide.
-- **AI & ML Research (2025 - Present):** Actively conducting research to explore cutting-edge technologies and innovative solutions.
-- **Founding TokenAI (10 May 2025 - Present):** Founded my non-profit AI Startup **TokenAI**.
+| Period | Milestone |
+| --- | --- |
+| 2021 - 2023 | Learning Programming & Computer Vision |
+| 2023 - Present | AI Engineering |
+| 2024 - Present | Freelancing |
+| 2025 - Present | AI & ML Research |
+| 10 May 2025 - Present | Founded **TokenAI** (non-profit AI Startup) |
 
 > **TokenAI** builds advanced AI models, research, datasets, and developer tools.
 > We focus on language, multimodal, speech, cybersecurity, and Arabic-native intelligence.
