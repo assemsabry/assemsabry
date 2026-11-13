@@ -8,9 +8,7 @@
   <a href="mailto:assem@tokenai.llc"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"></a>
 </div>
 
-<div align="center">
-  <em>I like training deep neural networks :&gt;</em>
-</div>
+<h3 align="center"><em>I like training deep neural networks :&gt;</em></h3>
 
 <h2 align="center">About Me</h2>
 
